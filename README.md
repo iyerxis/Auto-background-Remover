@@ -1,4 +1,4 @@
-# Auto-background-Remover
+# PyBackground-Remover
 
 Скрипт, позволяющий убрать фон у фото.\
 Перед использованием нужно установить модуль rembg.
